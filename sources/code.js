@@ -2,7 +2,7 @@
 window.onload=function(){
 
 	// Ecriture du titre
-	document.getElementById("titre").innerHTML = '<p>Jeu des pays-stan</p>';
+	document.getElementById("titre").innerHTML = '<p>Jeu des pays dont le nom se termine en "stan"</p>';
 
 	// Tableau des pays
 	tableauPays = new Array();
